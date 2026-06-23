@@ -1,4 +1,4 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+# Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -69,7 +69,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 MIT — feel free to fork, star, and use in your portfolio.
 
-## 👨‍💻 About the Author
+## About the Author
 Hey, I’m likihtha Sri, a Data Analyst .
 I break down complex data topics into simple, practical content that actually helps you land a job.
 
