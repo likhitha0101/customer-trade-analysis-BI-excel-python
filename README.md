@@ -70,7 +70,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 MIT — feel free to fork, star, and use in your portfolio.
 
 ## About the Author
-Hey, I’m likihtha Sri, a Data Analyst .
+Hey, I’m likihtha Sri, a 3rd year CSE student.
 I break down complex data topics into simple, practical content that actually helps you land a job.
 
  ### 🚀 Stay Connected & Join my Data Community
