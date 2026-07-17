@@ -1,4 +1,4 @@
-# Customer Behavior Data Analyst Portfolio Project
+# Customer Behavior Data Analyst Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -78,4 +78,4 @@ If you enjoyed this project and want to keep learning and growing as a data anal
 
 
 
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+## 💡 Thanks for checking out the project! this repo or share it with someone learning Data Analytics.🚀
