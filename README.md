@@ -63,18 +63,16 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Build presentation deck using Gamma AI
   
 
-
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
 ## About the Author
-Hey, I’m likihtha Sri, a 3rd year CSE student.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
+I'm Aare Likhitha Sri, a Computer Science undergraduate and aspiring Data Analyst. I enjoy working on data analytics projects that involve cleaning data, performing exploratory analysis, writing SQL queries, and creating interactive dashboards. This repository demonstrates practical data analysis techniques that can help businesses understand customer behavior and make data-driven decisions.
+Skills:
+SQL
+Python (Pandas, NumPy, Matplotlib)
+Excel
+Power BI
+Data Visualization
+Business Analytics
+⭐ If you found this project helpful, consider giving it a star and feel free to connect with me!
 
 
 
